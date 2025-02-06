@@ -1,0 +1,6 @@
+﻿  bigint.cpp
+C:\Users\admin\source\repos\22880068-BigInt\22880068-BigInt\bigint.cpp(179,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\22880068-BigInt\22880068-BigInt\bigint.cpp(210,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\22880068-BigInt\22880068-BigInt\bigint.cpp(231,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\22880068-BigInt\22880068-BigInt\bigint.cpp(63,1): warning C4715: 'FindLastIndex': not all control paths return a value
+  22880068-BigInt.vcxproj -> C:\Users\admin\source\repos\22880068-BigInt\x64\Debug\22880068-BigInt.exe
